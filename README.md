@@ -1,13 +1,13 @@
 ### Hi, i'm Marcelo Henrique
-👋 Welcome! <img align="right" height="200" width="200" alt="marcelo-solaire" src="https://github.com/marcelohenrique0/marcelohenrique0/assets/106102036/cfc8efea-6697-4138-bc9b-667c4c409c0b">
+👋 Welcome! <img align="right" height="220" width="350" alt="dev-vibe" src="https://github.com/user-attachments/assets/23c879cf-ab90-438b-b899-014924ebc83c">
 - Currently studying BTI at UFERSA (Federal Rural University of Semi-Árido)
 - Main programming languages: python / C                                                 
-- Future Data Scientist
+- Focus on IA/Data
 - I'm fascinated by the world of technology, I'm always looking to learn something new
-
+  
   ## 💻 My languages and Tools:
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true&username=marcelohenrique0&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=dracula&hide_border=true&username=marcelohdev&hide=jupyter%20notebook,tex" height="150" alt="languages graph"  />
 <div
 
 
@@ -31,14 +31,14 @@
   
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcelohenrique0&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcelohenrique0&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcelohdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcelohdev&theme=dracula&hide_border=false)<br/>
 
 </div>
 
 
   ## 🏆 GitHub Trophies and Views
-  ![](https://github-profile-trophy.vercel.app/?username=marcelohenrique0&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=marcelohdev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=marcelohenrique0&style=for-the-badge">
@@ -62,5 +62,3 @@
     src="https://raw.githubusercontent.com/marcelohenrique0/marcelohenrique0/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
